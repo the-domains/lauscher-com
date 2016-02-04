@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.4641576
+color:
+  saturation: 0.6481481
+  lightness: 0
+  brandStrength: 0
+  rhythmicContrast: 0
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Lauscher.com
