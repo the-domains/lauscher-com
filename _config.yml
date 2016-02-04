@@ -1,8 +1,5 @@
-layout_spectrum: 1
-typography_spectrum: 0.4641576
 color:
   saturation: 0.6481481
-  lightness: 0
   brandStrength: 0
   rhythmicContrast: 0
   brandColors:
@@ -11,4 +8,19 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+  lightness: 0
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 1
+typography_spectrum: 0.4641576
 name: Lauscher.com
